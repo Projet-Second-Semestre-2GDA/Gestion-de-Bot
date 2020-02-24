@@ -130,5 +130,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 552345a11abc86849a040888eaff32ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sizeOfGizmo: 1
+  sizeOfGizmo: 5
   dontMove: 1
